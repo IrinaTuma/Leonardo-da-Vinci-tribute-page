@@ -1,4 +1,4 @@
-## Leonardo-da-Vinci-tribute-page
+## Leonardo da Vinci tribute page
 
 It is the Leonardo da Vinci [biography.](https://irinatuma.github.io/Leonardo-da-Vinci-tribute-page/)
 
